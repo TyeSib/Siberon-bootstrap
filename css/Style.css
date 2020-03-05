@@ -25,3 +25,10 @@ body{
 .prev, .next {
   color: red;
 }
+.modal-backdrop {
+   background-color: Purple;
+}
+.btn-modal {
+  Background-color:#353a40;
+  color: white;
+}
